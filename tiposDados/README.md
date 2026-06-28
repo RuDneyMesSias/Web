@@ -15,3 +15,14 @@
 - [x]   48_Entendendo o Null & Undefined
 - [x]   49_Quase Tudo é Função
 - [x]   50_Exemplo Básicos de Funções #1
+- [x]   51_Exemplos Básicos de Funções #2
+- [x]   52_Declaração de Variáveis Com Var #1
+- [x]   53_Declaração de Variáveis Com Var #2
+- [x]   54_Declaração de Variáveis Com Let #1
+- [x]   55_Usando Var em #1
+- [x]   56_Usando Let em #1
+- [x]   57_Usando Var/Let em Loop
+- [x]   59_Entendedndo o Hoisting
+- [x]   60_Função Vs Objeto
+- [x]   61_Par Nome/Valor
+- [x]   62_Notação Ponto
