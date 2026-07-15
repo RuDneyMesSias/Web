@@ -6,7 +6,7 @@
 - [x]   89_Parâmetros e Retorno São Opcionais
 - [x]   90_Parâmetros Variáveis
 - [x]   91_Parâmetro Padrão
-- [x]   92_"this" pode Variarv
+- [x]   92_"this" pode Variar
 - [x]   93_ "this" e a Função bind
 - [x]   95_Funçções Arrow
 - [x]   98_Funções Anônimas
